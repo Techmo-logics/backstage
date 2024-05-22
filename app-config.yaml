@@ -1,6 +1,6 @@
 app:
-  title: Backstage Example App
-  baseUrl: http://localhost:3000
+  title: Techmo Developer Portal
+  baseUrl: http://0.0.0.0:3000
   experimental:
     packages: all # ✨
 
